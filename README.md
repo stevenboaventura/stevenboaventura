@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm Steven 👋
 
-<!--
-**stevenboaventura/stevenboaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a development mindset — I don't just analyze data, I build things with it.
 
-Here are some ideas to get you started:
+Background in HR data operations (600+ employees, multi-country reporting across 8+ countries), currently completing a postgraduate in Data Analysis for Business. I combine analytical thinking with hands-on technical skills to turn raw data into decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tools & Skills
+
+Analytics & BI
+Power BI DAX Power Query Excel Pivot Tables
+
+Data & Development
+SQL Python JavaScript React Node.js
+
+Databases & Infrastructure
+Supabase PostgreSQL
+
+
+📂 Featured Projects
+
+📊 Payroll vs Performance in MLB (2011–2024)
+
+Does spending more actually win games? Analysis of MLB team payroll structure and on-field performance across 14 seasons.
+Excel Power Query Pivot Tables Data Visualization
+
+📈 BMW Sales Power BI Dashboard
+
+Multi-page BI report analyzing BMW sales (2018–2025) by time period, region, and model.
+Power BI DAX Data Modeling
+
+🗂️ Portfolio Tracker App (private)
+
+Full-stack investment portfolio tracker with real-time price feeds, watchlist of 250+ tickers, and AI-powered company analysis.
+React Node.js Supabase PostgreSQL REST APIs
+
+
+📌 Currently
+
+
+📚 Finishing postgraduate in Data Analysis for Business
+🔍 Looking for a Data Analyst role
+🌍 Based in Esposende, Portugal — open to remote
+
+
+
+📬 Let's connect
